@@ -1,0 +1,13 @@
+{
+  "name": "jscs-preset-dcard",
+  "version": "1.0.0",
+  "description": "ESLint config for Dcard projects",
+  "main": "jscs.json",
+  "repository": "Dcard/jscs-preset-dcard",
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "license": "MIT",
+  "keywords": [
+    "dcard",
+    "jscs-preset"
+  ]
+}
